@@ -54,9 +54,9 @@ AtliQ Hardware Data Analytics Project
 
 "AtliQ Hardware is a swiftly expanding company specializing in the sale of computers and computer accessories across three core channels:
 
-Retailers
-Direct Sales
-Distributors
++ Retailers
++ Direct Sales
++ Distributors
 
 With a worldwide footprint, company has experienced substantial growth in its business operations in recent years."
 
