@@ -51,11 +51,13 @@ AtliQ Hardware Data Analytics Project
 
 + Consumer: The end-user or customer who purchases and uses the products or services offered by a company.
 ## Company Background:
+
 "AtliQ Hardware is a swiftly expanding company specializing in the sale of computers and computer accessories across three core channels:
 
 Retailers
 Direct Sales
 Distributors
+
 With a worldwide footprint, company has experienced substantial growth in its business operations in recent years."
 
 To secure our position in the industry, AtliQ Hardware recognizes the imperative need to build company's own analytics team. This team will be instrumental in providing data-driven insights and facilitating future survival and success.
