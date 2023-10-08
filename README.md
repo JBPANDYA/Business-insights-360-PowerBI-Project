@@ -7,12 +7,12 @@ AtliQ Hardware Data Analytics Project
 
 "Welcome to the AtliQ Hardware Data Analytics project repository! Here, we've harnessed the power of Power BI to equip AtliQ Hardware with the tools to make informed decisions, outperform competitors, and fuel growth across finance, sales, marketing, and supply chain management."
 ## Table of Contents
-Introduction                                                                               
-Tech Stacks                                                     
-Business Terminology               
-Company Background  
-Dataset  
-Dashboard
++ Introduction                                                                               
++ Tech Stacks                                                     
++ Business Terminology               
++ Company Background  
++ Dataset  
++ Dashboard
 ## Introduction
 
 "AtliQ Hardware, a worldwide leader in computer and computer accessories sales, is embracing the potential of data analytics through Power BI. Our mission with this project is to address key inquiries from stakeholders in finance, sales, marketing, and supply chain management. This empowers us to maintain a competitive edge in the dynamic market arena."
