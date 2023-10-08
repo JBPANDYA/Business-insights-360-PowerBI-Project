@@ -56,7 +56,11 @@ AtliQ Hardware Data Analytics Project
 Retailers
 Direct Sales
 Distributors
-With a worldwide footprint, our company has experienced substantial growth in its business operations in recent years."
+With a worldwide footprint, company has experienced substantial growth in its business operations in recent years."
+
+To secure our position in the industry, AtliQ Hardware recognizes the imperative need to build company's own analytics team. This team will be instrumental in providing data-driven insights and facilitating future survival and success.
+
+The project kick-off session will serve as a critical phase where we aim to gain clarity on the project's purpose, objectives, and address any lingering questions."
 ## Dataset
 ## Dimension Tables
 ## dim_customer :
@@ -105,9 +109,14 @@ This dataset provides comprehensive information about customers, markets, produc
 ## Dashboard
 
 ![Home Page](https://github.com/JBPANDYA/Business-insights-360-PowerBI-Project/blob/main/business_insights_360_images/Home%20_page.png)
+
 ![Finance View](https://github.com/JBPANDYA/Business-insights-360-PowerBI-Project/blob/main/business_insights_360_images/Financeview.png)
+
 ![Sales View](https://github.com/JBPANDYA/Business-insights-360-PowerBI-Project/blob/main/business_insights_360_images/Sales%20view.png)
+
 ![Marketing View](https://github.com/JBPANDYA/Business-insights-360-PowerBI-Project/blob/main/business_insights_360_images/Marketing%20view.png)
+
 ![Supplychain View ](https://github.com/JBPANDYA/Business-insights-360-PowerBI-Project/blob/main/business_insights_360_images/Supplychain%20view.png)
+
 ![Executive View](https://github.com/JBPANDYA/Business-insights-360-PowerBI-Project/blob/main/business_insights_360_images/Executiv%20eview.png)
 
